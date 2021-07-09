@@ -1,6 +1,6 @@
 # Resume
-#Silpa.Y
-###personal details
+# <b>Silpa.Y
+### personal details<b>
 - Name : Silpa.Y <br>
 - mail id: Silpa.yarlagadda42@gmail.com <br>
 - phone: 6301207307<br>
